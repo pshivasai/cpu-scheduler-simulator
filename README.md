@@ -14,5 +14,5 @@ A web-based simulator to visualize and compare CPU scheduling algorithms — **F
 
 ## Algorithms Implemented
 
--FCFS (First-Come-First-Serve): Non-preemptive scheduling based on process arrival order
--SJF (Shortest Job First): Non-preemptive scheduling based on burst time
+- FCFS (First-Come-First-Serve): Non-preemptive scheduling based on process arrival order 
+- SJF (Shortest Job First): Non-preemptive scheduling based on burst time
